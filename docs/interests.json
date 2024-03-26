@@ -1,0 +1,195 @@
+{
+    "name": "About Me",
+    "children": [
+      {"name": "Tech Skill's",
+        "children": [
+          {
+            "name": "Programming Languages",
+            "children": [
+              {
+                "name": "Java",
+                "children": [
+                  { "name": "JDK 8" },
+                  { "name": "JDK 17" }
+                ]
+              },
+              {
+                "name": "Python",
+                "children": [
+                  { "name": "Python 3.9" },
+                  { "name": "Python 3.x" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Database",
+            "children": [
+              {
+                "name": "MySQL",
+                "children": [
+                  { "name": "Version 8.0.30+" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Java Technology",
+            "children": [
+              { "name": "JDBC" },
+              { "name": "JSP" },
+              { "name": "Servlets" },
+              { "name": "Hibernate" },
+              { "name": "Spring" },
+              { "name": "Spring Boot" ,
+                "children": [
+
+                  { "name": "2.7.17" },
+                  { "name": "2.7.18" },
+                  { "name": "3.0.0" },
+                  { "name": "3.1.7" }
+
+                ]}
+            ]
+          },
+          {
+            "name" : "Front-End Technology",
+            "children": [
+              {"name":  "HTML 5"},
+              {"name" : "CSS 3"},
+              {"name" : "Java Script"},
+              {"name" : "Angular 16"}
+            ]
+          },
+          {
+            "name" : "Software & Tools",
+            "children": [
+              {"name": "Java IDE",
+                "children" : [
+                  {"name": "Intellij Idea Ultimate"},
+                  {"name": "Eclipse IDE"},
+                  {"name": "Visual Studio Code"},
+                  {"name": "Jupyter"}
+                ]
+              },
+              {"name": "Python IDE",
+                "children" : [
+                  {"name": "Pycharm Ultimate"},
+                  {"name": "Spyder IDE"},
+                  {"name": "Visual Studio Code"},
+                  {"name": "Jupyter"},
+                  {"name": "Anaconda"}
+                ]
+              },
+              {"name": "MySQL IDE",
+                "children" : [
+                  {"name": "MySQL Workbench"},
+                  {"name": "SQL Yog"}
+                ]
+              },
+              {
+                "name": "Open AI",
+                "children": [
+                  {"name": "Chat GPT"},
+                  {"name": "Hacker GPT"},
+                  {"name": "Dark GPT"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Version Control",
+            "children": [
+              {"name": "Git"},
+              {"name": "GitHub"}
+            ]
+          },
+          {
+            "name": "Api",
+            "children": [
+              {"name": "RestApi"}
+            ]
+          },
+          {
+            "name": "Operating System",
+            "children": [
+              {"name": "Windows",
+                "children": [
+                  {"name": "10"},
+                  {"name": "11"}
+                ]
+              },
+              {"name": "Linux",
+                "children": [
+                  {"name": "Kali Linux"},
+                  {"name": "Arch Linux"},
+                  {"name": "Linux Mint"},
+                  {"name": "Ubuntu"}
+                ]
+              }
+            ]
+          }
+
+        ]
+      },
+
+      {
+        "name": "Projects",
+        "children": [
+
+        ]
+      },
+
+      {
+        "name": "Internships",
+        "children": [
+          {"name": "CodSoft",
+            "children": [
+            {"name": "Java Programming"}]
+          },
+          {"name": "AICET",
+            "children": [
+              {"name": "AI-ML"}]},
+          {"name": "Spark Foundation",
+            "children": [
+              {"name": "Data Science"}]
+          },
+          {"name": "Code Alpha",
+            "children": [
+              {"name": "Java Programming"}]
+          },
+          {"name": "ScloudIN",
+            "children": [
+              {"name": "Testing"}]
+          }
+        ]
+      },
+
+      {
+        "name": "Education",
+        "children": [
+          {"name": "B.E.",
+            "children": [
+              {"name": "SGBAU, Amravati"},
+              {"name": "2019 - 2023"},
+              {"name": "CGPA: 8.11"}
+            ]
+          },
+          {"name": "XII",
+            "children": [
+              {"name": "Maharashtra State Board"},
+              {"name": "2018 - 2019"},
+              {"name": "Percentage: 63.08%"}
+            ]
+          },
+          {"name": "X",
+            "children": [
+              {"name": "Maharashtra State Board"},
+              {"name": "2016 - 2017"},
+              {"name": "Percentage: 76.60%"}
+            ]
+          }
+        ]
+      }
+    ]
+}
