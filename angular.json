@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "/portfolio/",
+            "baseHref": "",
             "outputPath": "docs/",
             
             "index": "src/index.html",
@@ -25,18 +25,21 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/interests.json"
+              "src/interests.json",
+
+              "src/skills.json"
             ],
             "styles": [
               "src/styles.css"
             ],
             "scripts": [
-              "src/dndtree.js"
+              "src/dndtree.js",
+              "src/dndskills.js"
             ]
           },
           "configurations": {
             "production": {
-              "baseHref": "/portfolio/",
+              "baseHref": "",
               "budgets": [
                 {
                   "type": "initial",

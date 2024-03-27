@@ -1,8 +1,8 @@
 
-function createTree() {
+function createSkillTree() {
 
 
-    treeJSON = d3.json('interests.json', function (treeData) {
+    treeJSON = d3.json('skills.json', function (treeData) {
 
         console.log(treeData);
 

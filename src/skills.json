@@ -1,0 +1,131 @@
+{"name": "Tech Skill's",
+        "children": [
+          {
+            "name": "Programming Languages",
+            "children": [
+              {
+                "name": "Java",
+                "children": [
+                  { "name": "JDK 8" },
+                  { "name": "JDK 17" }
+                ]
+              },
+              {
+                "name": "Python",
+                "children": [
+                  { "name": "Python 3.9" },
+                  { "name": "Python 3.x" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Database",
+            "children": [
+              {
+                "name": "MySQL",
+                "children": [
+                  { "name": "Version 8.0.30+" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Java Technology",
+            "children": [
+              { "name": "JDBC" },
+              { "name": "JSP" },
+              { "name": "Servlets" },
+              { "name": "Hibernate" },
+              { "name": "Spring" },
+              { "name": "Spring Boot" ,
+                "children": [
+
+                  { "name": "2.7.17" },
+                  { "name": "2.7.18" },
+                  { "name": "3.0.0" },
+                  { "name": "3.1.7" }
+
+                ]}
+            ]
+          },
+          {
+            "name" : "Front-End Technology",
+            "children": [
+              {"name":  "HTML 5"},
+              {"name" : "CSS 3"},
+              {"name" : "Java Script"},
+              {"name" : "Angular 16"}
+            ]
+          },
+          {
+            "name" : "Software & Tools",
+            "children": [
+              {"name": "Java IDE",
+                "children" : [
+                  {"name": "Intellij Idea Ultimate"},
+                  {"name": "Eclipse IDE"},
+                  {"name": "Visual Studio Code"},
+                  {"name": "Jupyter"}
+                ]
+              },
+              {"name": "Python IDE",
+                "children" : [
+                  {"name": "Pycharm Ultimate"},
+                  {"name": "Spyder IDE"},
+                  {"name": "Visual Studio Code"},
+                  {"name": "Jupyter"},
+                  {"name": "Anaconda"}
+                ]
+              },
+              {"name": "MySQL IDE",
+                "children" : [
+                  {"name": "MySQL Workbench"},
+                  {"name": "SQL Yog"}
+                ]
+              },
+              {
+                "name": "Open AI",
+                "children": [
+                  {"name": "Chat GPT"},
+                  {"name": "Hacker GPT"},
+                  {"name": "Dark GPT"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Version Control",
+            "children": [
+              {"name": "Git"},
+              {"name": "GitHub"}
+            ]
+          },
+          {
+            "name": "Api",
+            "children": [
+              {"name": "RestApi"}
+            ]
+          },
+          {
+            "name": "Operating System",
+            "children": [
+              {"name": "Windows",
+                "children": [
+                  {"name": "Windows 10"},
+                  {"name": "Windows 11"}
+                ]
+              },
+              {"name": "Linux",
+                "children": [
+                  {"name": "Kali Linux"},
+                  {"name": "Arch Linux"},
+                  {"name": "Linux Mint"},
+                  {"name": "Ubuntu"}
+                ]
+              }
+            ]
+          }
+
+        ]
+      }
