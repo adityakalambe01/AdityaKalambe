@@ -1,0 +1,23 @@
+{"name": "Internships",
+    "children": [
+      {"name": "CodSoft",
+        "children": [
+        {"name": "Java Programming"}]
+      },
+      {"name": "AICET",
+        "children": [
+          {"name": "AI-ML"}]},
+      {"name": "Spark Foundation",
+        "children": [
+          {"name": "Data Science"}]
+      },
+      {"name": "Code Alpha",
+        "children": [
+          {"name": "Java Programming"}]
+      },
+      {"name": "ScloudIN",
+        "children": [
+          {"name": "Testing"}]
+      }
+    ]
+  }
