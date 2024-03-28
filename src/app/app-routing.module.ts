@@ -4,6 +4,8 @@ import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { TreeComponent } from './tree/tree.component';
 import { SkillsComponent } from './skills/skills.component';
+import { ExperienceComponent } from './experience/experience.component';
+import { EducationComponent } from './education/education.component';
 
 // const routes: Routes = [];
 
@@ -24,6 +26,14 @@ const routes:Routes =[
   {
     component: SkillsComponent,
     path: 'skills'
+  },
+  {
+    component: ExperienceComponent,
+    path: 'experience'
+  },
+  {
+    component: EducationComponent,
+    path: 'education'
   }
 ]
 

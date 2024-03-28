@@ -27,14 +27,27 @@
               "src/assets",
               "src/interests.json",
 
-              "src/skills.json"
+              "src/skills.json",
+
+              "src/education.json",
+
+              "src/experience.json",
+
+              "src/projects.json"
             ],
             "styles": [
               "src/styles.css"
             ],
             "scripts": [
               "src/dndtree.js",
-              "src/dndskills.js"
+
+              "src/dndskills.js",
+
+              "src/dndeducation.js",
+
+              "src/dndexperience.js",
+
+              "src/dndprojects.js"
             ]
           },
           "configurations": {

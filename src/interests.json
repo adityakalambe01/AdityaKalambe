@@ -6,61 +6,6 @@
         "children": [
 
         ]
-      },
-
-      {
-        "name": "Internships",
-        "children": [
-          {"name": "CodSoft",
-            "children": [
-            {"name": "Java Programming"}]
-          },
-          {"name": "AICET",
-            "children": [
-              {"name": "AI-ML"}]},
-          {"name": "Spark Foundation",
-            "children": [
-              {"name": "Data Science"}]
-          },
-          {"name": "Code Alpha",
-            "children": [
-              {"name": "Java Programming"}]
-          },
-          {"name": "ScloudIN",
-            "children": [
-              {"name": "Testing"}]
-          }
-        ]
-      },
-
-      {
-        "name": "Education",
-        "children": [
-          {"name": "B.E.",
-            "children": [
-              {"name": "University: SGBAU, Amravati"},
-              {"name": "Branch: CSE"},
-              {"name": "Duration: 2019 - 2023"},
-              {"name": "CGPA: 8.11"}
-            ]
-          },
-          {"name": "XII",
-            "children": [
-              {"name": "Board: Maharashtra State Board"},
-              {"name": "Course: Science"},
-              {"name": "Duration: 2018 - 2019"},
-              {"name": "Percentage: 63.08%"}
-            ]
-          },
-          {"name": "X",
-            "children": [
-              {"name": "Board: Maharashtra State Board"},
-              {"name": "Course: Semi-English"},
-              {"name": "Duration: 2016 - 2017"},
-              {"name": "Percentage: 76.60%"}
-            ]
-          }
-        ]
       }
     ]
 }
