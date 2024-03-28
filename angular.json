@@ -25,29 +25,30 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/interests.json",
 
-              "src/skills.json",
+              "src/myjson/interests.json",
 
-              "src/education.json",
+              "src/myjson/skills.json",
 
-              "src/experience.json",
+              "src/myjson/education.json",
 
-              "src/projects.json"
+              "src/myjson/experience.json",
+
+              "src/myjson/projects.json"
             ],
             "styles": [
               "src/styles.css"
             ],
             "scripts": [
-              "src/dndtree.js",
+              "src/myscripts/dndtree.js",
 
-              "src/dndskills.js",
+              "src/myscripts/dndskills.js",
 
-              "src/dndeducation.js",
+              "src/myscripts/dndeducation.js",
 
-              "src/dndexperience.js",
+              "src/myscripts/dndexperience.js",
 
-              "src/dndprojects.js"
+              "src/myscripts/dndprojects.js"
             ]
           },
           "configurations": {
